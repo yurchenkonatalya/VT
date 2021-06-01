@@ -1,0 +1,43 @@
+.list {
+  padding-top: 50px;
+}
+
+.article {
+  max-width: 900px;
+  width: 100%;
+  background-color:  papayawhip;
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  padding: 10px;
+}
+
+.article h2 {
+  color: #3A3A3A;
+
+}
+
+.article img {
+  margin: 10px 30%;
+  width: 40%;
+}
+
+.article p {
+  color: #828282;
+  margin: 0 0 10px 0;
+}
+
+.a-button {
+  text-decoration: none;
+  color: #393939;
+  margin: auto;
+  background-color: #fff;
+  box-shadow: 0 0 5px #cccccc;
+  max-width: inherit;
+  width: 100%;
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px 0 10px 0;
+  display: block;
+}

@@ -1,0 +1,26 @@
+.list {
+  padding-top: 30px;
+  width: 50%;
+  margin: auto;
+}
+
+ol {
+  font-size: 23px;
+}
+
+li {
+  font-style: oblique;
+}
+
+dd p {
+  font-size: 18px;
+}
+
+dd img {
+  float: left;
+  margin-right: 10px;
+}
+
+li, dd{
+  padding-bottom: 10px;
+}

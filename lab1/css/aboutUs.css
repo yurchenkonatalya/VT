@@ -1,0 +1,108 @@
+.about_us {
+  width: 50%;
+  height: 30%;
+  padding-top: 50px;
+  margin: 0 auto 40px auto;
+}
+
+.about_us_img img {
+  width: 60%;
+}
+
+.header_about_us {
+  text-align: center;
+  font-size: 70px;
+}
+
+.text_about_us {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.container {
+  width: 500px;
+  height: 500px;
+  font-size: 17px;
+  font-family: "Georgia", "serif";
+  font-style: italic;
+  text-align: center;
+  vertical-align: middle;
+  color: #A8A8A8;
+  margin: auto;
+  border: 1px solid black;
+  padding: 20px;
+  z-index: 2;
+
+}
+
+.container p {
+  width: 400px;
+  height: 300px;
+  margin: 40px auto 100px auto;
+}
+
+.container h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight:700;
+  font-size: 40px;
+  color: #0A0A0A;
+}
+
+.line {
+  background-color:  papayawhip;
+  margin: 25% 0;
+  height:inherit;
+  width: 300%;
+  height: 56%;
+  top: 10%;
+  left:  -100%;
+  z-index: -1;
+  position: absolute;
+}
+
+.csr {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  font-size: 20px;
+}
+
+.csr p {
+  color: #848484;
+}
+
+.csr h1 {
+  margin-top: 40px;
+  font-size: 35px;
+}
+
+.clients-list li {
+  display: inline-block;
+  text-align: center;
+  padding: 0 2px 25px;
+  vertical-align: top;
+  width: 30%;
+  margin: 10px;
+  padding: 0;
+}
+
+.reviewer {
+  filter: gray;
+  -webkit-filter: grayscale(1);
+  -webkit-transition: all .4s ease-in-out;
+}
+
+.reviewer:hover {
+  filter: none;
+  -webkit-filter: grayscale(0);
+  -webkit-transform: scale(1.01);
+
+}
+
+.reviews {
+  width: 70%;
+  margin: auto;
+}

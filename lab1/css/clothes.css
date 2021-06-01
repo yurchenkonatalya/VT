@@ -1,0 +1,23 @@
+.container {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.list {
+  width: 70%;
+  display: flex;
+  margin: 0 auto;
+}
+
+.clothes {
+  padding: 10px;
+  width: 33%;
+  background-color:  papayawhip;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+  margin: 5px;
+}
+
+a {
+  text-decoration: none;
+}
