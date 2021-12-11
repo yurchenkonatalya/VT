@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students-info>
+
+    <student-info>
+        <surname>лабович</surname>
+        <name>илья</name>
+        <patronymic>дмитриевич</patronymic>
+        <birthday>09.09.2001</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>95100038</gradebook-number>
+        <speciality>программное обеспечения информационных технологий</speciality>
+    </student-info>
+
+    <student-info>
+        <surname>войтко</surname>
+        <name>егор</name>
+        <patronymic>дмитриевич</patronymic>
+        <birthday>05.11.2001</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>95100044</gradebook-number>
+        <speciality>программное обеспечения информационных технологий</speciality>
+    </student-info>
+
+    <student-info>
+
+        <surname>воронцова</surname>
+        <name>полина</name>
+        <patronymic>сергеевна</patronymic>
+        <birthday>11.02.2002</birthday>
+        <sex>женский</sex>
+        <gradebook-number>95100056</gradebook-number>
+        <speciality>программное обеспечения информационных технологий</speciality>
+    </student-info>
+
+    <student-info>
+        <surname>лабович</surname>
+        <name>анастасия</name>
+        <patronymic>дмитриевна</patronymic>
+        <birthday>05.07.2000</birthday>
+        <sex>женский</sex>
+        <gradebook-number>12313213</gradebook-number>
+        <speciality>туризм и ресторанный бизнес</speciality>
+    </student-info>
+
+
+    <student-info>
+        <surname>Мурин</surname>
+        <name>Максим</name>
+        <patronymic>Сергеевич</patronymic>
+        <birthday>16.07.2000</birthday>
+        <sex>мужской</sex>
+        <gradebook-number>55555555</gradebook-number>
+        <speciality>военный</speciality>
+    </student-info>
+
+</students-info>
